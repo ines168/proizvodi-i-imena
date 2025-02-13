@@ -1,0 +1,4 @@
+Kreiraj klasu Proizvod koja se sastoji od 3 vrijednosti: naziv, cijena, količina.
+Kreiraj konstruktor i metodu za prikaz informacija o proizvodu "Naziv + cijena + količina"
+Program treba unositi proizvode u ArrayList ili List dok mu ne upišemo riječ za prekid unosa.
+Nakon prekida unosa, ispiši sve proizvode.
