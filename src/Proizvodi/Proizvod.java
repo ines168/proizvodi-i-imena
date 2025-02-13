@@ -11,6 +11,11 @@ public class Proizvod {
         this.kolicina = kolicina;
     }
 
+    //metode za dohvaćanje podataka su dohvati i toString
+    public String dohvatiPodatke() {
+        return "Naziv proizvoda: " + naziv + ", cijena: " + cijena + ", kolicina: " + kolicina;
+    }
+
     @Override
     public String toString() {
         return "Proizvod: " +
